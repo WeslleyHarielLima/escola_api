@@ -42,6 +42,10 @@ group :development, :test do
   # Gemfile
 gem 'devise'
 
+gem 'devise'
+gem 'jwt'
+gem 'rack-cors'
+
 end
 
 
