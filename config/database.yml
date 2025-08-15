@@ -1,0 +1,10 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+  username: weslleyhariel
+  password: Weslley123
+
+development:
+  <<: *default
+  database: aprender_mais_development
