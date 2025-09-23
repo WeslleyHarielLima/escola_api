@@ -44,12 +44,6 @@ Banco de dados configurado (PostgreSQL/MySQL)
 
 npm ou yarn
 
-# Instalação
-# Clone o repositório
-git clone https://github.com/seu-usuario/nome-da-api.git
-
-# Acesse o diretório
-cd nome-da-api
 
 # Instale as dependências
 npm install
