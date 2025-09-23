@@ -52,4 +52,3 @@ src/
 ├─ utils/             # Funções utilitárias (ex: geração de token)
 └─ app.js             # Arquivo principal
 
-# Endpoints
